@@ -221,3 +221,7 @@ div a:hover {
     margin-top: 2%;
     margin-bottom: 2%;
 }
+
+footer nav a:hover {
+	color: lightgray;
+}
