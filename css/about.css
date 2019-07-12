@@ -180,3 +180,38 @@ div a:hover {
 footer nav a:hover {
 	color: lightgray;
 }
+.mid-content {
+    display: flex;
+    /* background-color: green; */
+	flex-wrap: wrap;
+	margin: 1% 2% 3% 2%;
+	justify-content: space-between;
+}
+.block {
+	/* background-color: rgb(228, 228, 228); */
+	width: 48%;
+	margin-bottom: 3%;
+    padding: 2% 0% 3% 0%;
+    margin: 1,5%;
+    border-bottom: 1px dashed black;
+}
+.block p {
+	margin-bottom: 6%;
+}
+.block img{
+    width: 100%;
+    margin-bottom: 2%;
+}
+.button {
+	background-color: white; 
+	border: 1px solid black;
+	border-radius: 10px;
+	color: black;
+	text-decoration: none;
+	padding: 2% 8%;
+	font-size: 15px;
+}
+.button:hover {
+    background-color: black;
+    color: white;
+}
