@@ -204,7 +204,7 @@ footer nav a:hover {
 }
 .button {
 	background-color: white; 
-	border: 1px solid black;
+	border: 2px solid black;
 	border-radius: 10px;
 	color: black;
 	text-decoration: none;
@@ -214,4 +214,12 @@ footer nav a:hover {
 .button:hover {
     background-color: black;
     color: white;
+}
+.down-content {
+    /* background-color: aqua; */
+    margin-bottom: 5%;
+    padding: 0 2% 0 2%;
+}
+footer nav a:hover {
+	color: lightgray;
 }
